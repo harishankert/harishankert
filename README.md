@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 I'm a ServiceNow Developer with close to 4 years of experience in Development. Experienced in ITSM and CSM Implementation Custom Application Development and Integrations. Good knowledge of implementation and customization of Service Portal, Pages and Widgets. Excellent in JavaScript, ServiceNow Scripting, UI policies, ACLs, Business Rules, workflows and Client Scripts. Worked on Integration of ServiceNow with third-party applications using REST API Good Knowledge of HTML5, CSS3, Bootstrap 3, D3.js, Highcharts and AngularJS Basic knowledge of Selenium, Tricentis Tosca and Python 3
 
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/harishankert/) 
-- 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/harishankert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/harishankert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/harishankert/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
