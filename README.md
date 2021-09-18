@@ -21,8 +21,8 @@ I'm a ServiceNow Developer with close to 4 years of experience in Development. E
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="ServiceNow" src="https://img.shields.io/badge/-ServiceNow-8DD6F9?style=flat-square&logo=ServiceNow&logoColor=black" />
-  <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-CC6699?style=flat-square&logo=Salesforce&logoColor=black" />
+  <img alt="ServiceNow" src="https://img.shields.io/badge/-ServiceNow-112f04?style=flat-square&logo=ServiceNow&logoColor=black" />
+  <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-17A0DB?style=flat-square&logo=Salesforce&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" />
