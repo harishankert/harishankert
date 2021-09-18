@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-ServiceNow Developer with close to 3.5 years of experience in designing, implementing and administering various
-ITSM, CSM and Integration solutions. Areas of expertise include ServiceNow Custom Applications, Integrations, Service Portal, Incident/Problem/Change Management/Case Management with excellent debugging and testing skills
+ServiceNow Developer with close to 3.5 years of experience in Development. Experienced in ITSM and CSM Implementation Custom Application Development and Integrations. Good knowledge of implementation and customization of Service Portal, Pages and Widgets. Excellent in JavaScript, ServiceNow Scripting, UI policies, ACLs, Business Rules, workflows and Client Scripts. Worked on Integration of ServiceNow with third-party applications using REST API Good Knowledge of HTML5, CSS3, Bootstrap 3, D3.js, Highcharts and AngularJS Basic knowledge of Selenium, Tricentis Tosca and Python 3
