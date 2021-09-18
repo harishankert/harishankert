@@ -44,7 +44,7 @@ I'm a ServiceNow Developer with close to 4 years of experience in Development. E
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-CC6699?style=flat-square&logo=Visual%20Studio%20Code&logoColor=black" />
-  <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
