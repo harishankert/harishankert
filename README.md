@@ -39,13 +39,9 @@ I'm a ServiceNow Developer with close to 4 years of experience in Development. E
 <img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 </p>
 
-<div style="width:50%">
-<img src="https://github-readme-stats.vercel.app/api?username=harishankert&show_icons=true&theme=dark"/>
-</div>
-<div style="width:50%">
-[![@harishankert's Holopin board](https://holopin.io/api/user/board?user=harishankert)](https://holopin.io/@harishankert)
-</div>
 
+[![@harishankert's Holopin board](https://holopin.io/api/user/board?user=harishankert)](https://holopin.io/@harishankert)
+<img src="https://github-readme-stats.vercel.app/api?username=harishankert&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishankert&theme=dark"/>
 
 
