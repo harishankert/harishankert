@@ -41,8 +41,6 @@ I'm a ServiceNow Developer with close to 8 years of experience in Development. E
 
 
 [![@harishankert's Holopin board](https://holopin.io/api/user/board?user=harishankert)](https://holopin.io/@harishankert)
-<img src="https://github-readme-stats.vercel.app/api?username=harishankert&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishankert&theme=dark"/>
 
 
 <h3>Where to find me</h3>
